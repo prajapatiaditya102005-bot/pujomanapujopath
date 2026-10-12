@@ -1,0 +1,1100 @@
+{
+  "metadata": {
+    "title": "Kolkata Durga Puja Public Transit Master Guide",
+    "last_updated": "2026-10-11T12:00:00Z",
+    "source": "Translated from Kolkata Durga Puja Guides (NORTH_KOLKATA.pdf, SOUTH_KOLKATA.pdf, CENTRAL _KOLKATA.pdf) and WBTC Official Roster",
+    "total_bus_routes_cataloged": 64
+  },
+  "bus_routes_master": [
+    {
+      "route": "240",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Bagbazar",
+        "Shyambazar",
+        "Sovabazar",
+        "Ahiritola"
+      ],
+      "type": "Private Bus",
+      "origin": "Bagbazar Ghat",
+      "destination": "Howrah Station",
+      "first_service": "05:30 AM",
+      "last_service": "10:45 PM",
+      "frequency": "12 mins",
+      "has_timetable": true,
+      "service_status": "Active (Puja Special)",
+      "verified_agency": "WBTC / Kolkata Police"
+    },
+    {
+      "route": "240/1",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Bagbazar",
+        "Shyambazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Bagbazar",
+      "destination": "BBD Bag",
+      "first_service": "06:00 AM",
+      "last_service": "09:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "215A",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Sovabazar",
+        "Shyambazar",
+        "Hatibagan"
+      ],
+      "type": "Private Bus",
+      "origin": "Howrah Station",
+      "destination": "Salt Lake Karunamoyee",
+      "first_service": "06:00 AM",
+      "last_service": "10:30 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "11A",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Hatibagan",
+        "Maniktala"
+      ],
+      "type": "Private Bus",
+      "origin": "Dum Dum Cantonment",
+      "destination": "Howrah Station",
+      "first_service": "05:45 AM",
+      "last_service": "10:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "15",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Ultadanga",
+        "Khanna",
+        "Hatibagan"
+      ],
+      "type": "Private Bus",
+      "origin": "Ultadanga",
+      "destination": "Howrah Station",
+      "first_service": "06:00 AM",
+      "last_service": "10:00 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "30B",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Belgachia",
+        "Lake Town",
+        "Dum Dum Park"
+      ],
+      "type": "Private Bus",
+      "origin": "Babughat",
+      "destination": "Airport Gate 1",
+      "first_service": "05:30 AM",
+      "last_service": "10:45 PM",
+      "frequency": "12 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "30C",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Lake Town",
+        "Dum Dum Park"
+      ],
+      "type": "Private Bus",
+      "origin": "Babughat",
+      "destination": "Hatiara",
+      "first_service": "05:45 AM",
+      "last_service": "10:00 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "30D",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Dum Dum Park",
+        "VIP Road"
+      ],
+      "type": "Private Bus",
+      "origin": "Babughat",
+      "destination": "Dum Dum Cantonment",
+      "first_service": "06:00 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "32A",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Belgachia",
+        "Tala"
+      ],
+      "type": "Private Bus",
+      "origin": "Dakshineswar",
+      "destination": "Babughat",
+      "first_service": "06:00 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "34C",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Maniktala"
+      ],
+      "type": "Private Bus",
+      "origin": "Shyambazar",
+      "destination": "Purba Putiary",
+      "first_service": "N/A",
+      "last_service": "N/A",
+      "frequency": "Approx 25 mins",
+      "has_timetable": false,
+      "service_status": "Listed in Guide",
+      "verified_agency": "Guide Record"
+    },
+    {
+      "route": "43",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Bagbazar",
+        "Sovabazar",
+        "Ahiritola"
+      ],
+      "type": "Private Bus",
+      "origin": "Dakshineswar",
+      "destination": "Babughat",
+      "first_service": "N/A",
+      "last_service": "N/A",
+      "frequency": "Approx 20 mins",
+      "has_timetable": false,
+      "service_status": "Listed in Guide",
+      "verified_agency": "Guide Record"
+    },
+    {
+      "route": "44",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Bagbazar",
+        "Ultadanga"
+      ],
+      "type": "Private Bus",
+      "origin": "Bagbazar",
+      "destination": "Howrah Station",
+      "first_service": "06:15 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "78",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Belgachia",
+        "Sovabazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Barrackpore",
+      "destination": "Babughat",
+      "first_service": "05:30 AM",
+      "last_service": "10:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "211",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Lake Town",
+        "Dum Dum Park"
+      ],
+      "type": "Private Bus",
+      "origin": "Ahiritola",
+      "destination": "Salt Lake Sector V",
+      "first_service": "06:00 AM",
+      "last_service": "10:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "222",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Sovabazar",
+        "Maniktala"
+      ],
+      "type": "Private Bus",
+      "origin": "Behala Chowrasta",
+      "destination": "Bonhooghly",
+      "first_service": "06:00 AM",
+      "last_service": "10:30 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "230",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Maniktala",
+        "Shyambazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Dankuni",
+      "destination": "Salt Lake",
+      "first_service": "06:00 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "S-9A",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Bagbazar",
+        "Sovabazar",
+        "Khanna"
+      ],
+      "type": "Government Bus",
+      "origin": "Shyambazar Five Point",
+      "destination": "Garia Depot",
+      "first_service": "06:00 AM",
+      "last_service": "11:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-10",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Maniktala"
+      ],
+      "type": "Government Bus",
+      "origin": "Nabanna",
+      "destination": "Airport Gate 1",
+      "first_service": "06:30 AM",
+      "last_service": "10:30 PM",
+      "frequency": "30 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-12",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Ultadanga",
+        "Lake Town"
+      ],
+      "type": "Government Bus",
+      "origin": "Howrah Station",
+      "destination": "New Town",
+      "first_service": "06:00 AM",
+      "last_service": "11:00 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-22",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Lake Town",
+        "VIP Road"
+      ],
+      "type": "Government Bus",
+      "origin": "Shakuntala Park",
+      "destination": "Lake Town",
+      "first_service": "06:30 AM",
+      "last_service": "10:00 PM",
+      "frequency": "45 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-32A",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Belgachia"
+      ],
+      "type": "Government Bus",
+      "origin": "Dakshineswar",
+      "destination": "Babughat",
+      "first_service": "06:00 AM",
+      "last_service": "09:30 PM",
+      "frequency": "30 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "C-8",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Ultadanga"
+      ],
+      "type": "Government Bus",
+      "origin": "Barasat",
+      "destination": "Jadavpur",
+      "first_service": "06:15 AM",
+      "last_service": "10:15 PM",
+      "frequency": "30 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "C-24",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Hatibagan",
+        "Maniktala"
+      ],
+      "type": "Government Bus",
+      "origin": "Howrah Station",
+      "destination": "New Town",
+      "first_service": "06:30 AM",
+      "last_service": "10:30 PM",
+      "frequency": "45 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "AC-4",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Bagbazar",
+        "Sovabazar"
+      ],
+      "type": "AC Bus",
+      "origin": "Howrah Station",
+      "destination": "Parnasree (Behala)",
+      "first_service": "07:00 AM",
+      "last_service": "10:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "AC-10",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Shyambazar",
+        "Hatibagan"
+      ],
+      "type": "AC Bus",
+      "origin": "Howrah Station",
+      "destination": "Nilgunj",
+      "first_service": "07:00 AM",
+      "last_service": "11:00 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "AC-39",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Lake Town",
+        "Dum Dum Park",
+        "Sreebhumi"
+      ],
+      "type": "AC Bus",
+      "origin": "Howrah Station",
+      "destination": "Airport Gate 1",
+      "first_service": "06:00 AM",
+      "last_service": "11:30 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active (Puja Peak)",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "AC-47",
+      "region": "North Kolkata",
+      "neighborhoods": [
+        "Lake Town",
+        "Dum Dum Park"
+      ],
+      "type": "AC Bus",
+      "origin": "Kudghat",
+      "destination": "Airport",
+      "first_service": "06:30 AM",
+      "last_service": "10:00 PM",
+      "frequency": "25 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "1",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Bowbazar",
+        "Central",
+        "Janbazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Ramnagar",
+      "destination": "Gariahat",
+      "first_service": "06:15 AM",
+      "last_service": "10:00 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "2",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Bowbazar",
+        "Janbazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Howrah Station",
+      "destination": "Kudghat",
+      "first_service": "06:00 AM",
+      "last_service": "10:00 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "3",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "MG Road",
+        "College Street",
+        "Central"
+      ],
+      "type": "Private Bus",
+      "origin": "Bagbazar",
+      "destination": "Serampore / Howrah",
+      "first_service": "06:00 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "3B",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "College Street",
+        "Bowbazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Howrah Station",
+      "destination": "Picnic Garden",
+      "first_service": "06:00 AM",
+      "last_service": "10:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "3C",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Central",
+        "Janbazar",
+        "Esplanade"
+      ],
+      "type": "Private Bus",
+      "origin": "Howrah Station",
+      "destination": "Ballygunge",
+      "first_service": "06:15 AM",
+      "last_service": "09:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "24A",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Bowbazar",
+        "Sealdah",
+        "Entally"
+      ],
+      "type": "Private Bus",
+      "origin": "Bandhaghat (Howrah)",
+      "destination": "Mukundapur",
+      "first_service": "06:15 AM",
+      "last_service": "09:45 PM",
+      "frequency": "18 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "39",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Amherst Street",
+        "Central"
+      ],
+      "type": "Private Bus",
+      "origin": "High Court",
+      "destination": "Picnic Garden",
+      "first_service": "N/A",
+      "last_service": "N/A",
+      "frequency": "Approx 20 mins",
+      "has_timetable": false,
+      "service_status": "Listed in Guide",
+      "verified_agency": "Guide Record"
+    },
+    {
+      "route": "45",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Sealdah",
+        "Entally"
+      ],
+      "type": "Private Bus",
+      "origin": "Kolkata Station",
+      "destination": "Airport Gate 1",
+      "first_service": "06:15 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "71",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Wellington",
+        "Bowbazar",
+        "Janbazar"
+      ],
+      "type": "Private Bus",
+      "origin": "Howrah Station",
+      "destination": "BBD Bag via Central",
+      "first_service": "06:00 AM",
+      "last_service": "10:00 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "S-2",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Central",
+        "Janbazar",
+        "Esplanade"
+      ],
+      "type": "Government Bus",
+      "origin": "Howrah Station",
+      "destination": "Kudghat",
+      "first_service": "05:45 AM",
+      "last_service": "11:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-3A",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Bowbazar",
+        "Sealdah"
+      ],
+      "type": "Government Bus",
+      "origin": "Thakurpukur",
+      "destination": "Sealdah Station",
+      "first_service": "06:00 AM",
+      "last_service": "10:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-5C",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "MG Road",
+        "Central"
+      ],
+      "type": "Government Bus",
+      "origin": "Howrah Station",
+      "destination": "Gariahat",
+      "first_service": "06:00 AM",
+      "last_service": "11:00 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "AC-1",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "Central",
+        "Bowbazar",
+        "Janbazar"
+      ],
+      "type": "AC Bus",
+      "origin": "Howrah Station",
+      "destination": "Jadavpur",
+      "first_service": "06:00 AM",
+      "last_service": "11:15 PM",
+      "frequency": "12 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "AC-24",
+      "region": "Central Kolkata",
+      "neighborhoods": [
+        "College Street",
+        "Bowbazar",
+        "Sealdah"
+      ],
+      "type": "AC Bus",
+      "origin": "Howrah Station",
+      "destination": "Salt Lake Sector V",
+      "first_service": "07:15 AM",
+      "last_service": "10:45 PM",
+      "frequency": "25 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "47",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Ballygunge",
+        "Gariahat",
+        "Jodhpur Park"
+      ],
+      "type": "Private Bus",
+      "origin": "Lake Town",
+      "destination": "Salt Lake Karunamoyee",
+      "first_service": "06:00 AM",
+      "last_service": "10:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "47A",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Deshapriya Park"
+      ],
+      "type": "Private Bus",
+      "origin": "Dhakuria",
+      "destination": "Salt Lake Karunamoyee",
+      "first_service": "06:00 AM",
+      "last_service": "10:15 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "47/1",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Ballygunge"
+      ],
+      "type": "Private Bus",
+      "origin": "Garia Depot",
+      "destination": "Salt Lake",
+      "first_service": "N/A",
+      "last_service": "N/A",
+      "frequency": "Approx 20 mins",
+      "has_timetable": false,
+      "service_status": "Listed in Guide",
+      "verified_agency": "Guide Record"
+    },
+    {
+      "route": "42A",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Rashbehari",
+        "Kalighat"
+      ],
+      "type": "Private Bus",
+      "origin": "Howrah Station",
+      "destination": "Kasba",
+      "first_service": "06:30 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": false,
+      "service_status": "Listed in Guide",
+      "verified_agency": "Guide Record"
+    },
+    {
+      "route": "80A",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Naktala",
+        "Garia",
+        "Tollygunge"
+      ],
+      "type": "Private Bus",
+      "origin": "Garia Station",
+      "destination": "Howrah Station",
+      "first_service": "05:45 AM",
+      "last_service": "10:30 PM",
+      "frequency": "12 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "80B",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Naktala",
+        "Tollygunge"
+      ],
+      "type": "Private Bus",
+      "origin": "Garia",
+      "destination": "Babughat",
+      "first_service": "06:00 AM",
+      "last_service": "09:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "218",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Dhakuria",
+        "Kalighat"
+      ],
+      "type": "Private Bus",
+      "origin": "Baruipur",
+      "destination": "Howrah Station",
+      "first_service": "06:00 AM",
+      "last_service": "10:30 PM",
+      "frequency": "15 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "221",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Rashbehari"
+      ],
+      "type": "Private Bus",
+      "origin": "Garia",
+      "destination": "Howrah Station",
+      "first_service": "06:00 AM",
+      "last_service": "09:45 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "227",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Garia",
+        "Naktala",
+        "Jadavpur"
+      ],
+      "type": "Private Bus",
+      "origin": "Garia",
+      "destination": "Ballygunge",
+      "first_service": "06:15 AM",
+      "last_service": "09:30 PM",
+      "frequency": "25 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC"
+    },
+    {
+      "route": "S-4C",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Deshapriya Park",
+        "Kalighat"
+      ],
+      "type": "Government Bus",
+      "origin": "Haridevpura",
+      "destination": "Howrah Station",
+      "first_service": "06:00 AM",
+      "last_service": "10:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-7",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Manohar Pukur",
+        "Gariahat",
+        "Kalighat"
+      ],
+      "type": "Government Bus",
+      "origin": "Garia",
+      "destination": "Howrah Station",
+      "first_service": "06:15 AM",
+      "last_service": "10:45 PM",
+      "frequency": "30 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "S-21",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Golpark"
+      ],
+      "type": "Government Bus",
+      "origin": "Baruipur",
+      "destination": "Howrah Station",
+      "first_service": "06:00 AM",
+      "last_service": "09:30 PM",
+      "frequency": "30 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC Official"
+    },
+    {
+      "route": "AC-5",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Jodhpur Park"
+      ],
+      "type": "AC Bus",
+      "origin": "Garia",
+      "destination": "Howrah Station",
+      "first_service": "06:30 AM",
+      "last_service": "10:30 PM",
+      "frequency": "20 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    },
+    {
+      "route": "AC-6",
+      "region": "South Kolkata",
+      "neighborhoods": [
+        "Gariahat",
+        "Golpark",
+        "Ballygunge"
+      ],
+      "type": "AC Bus",
+      "origin": "Garia",
+      "destination": "Howrah Station via Exide",
+      "first_service": "06:15 AM",
+      "last_service": "10:00 PM",
+      "frequency": "25 mins",
+      "has_timetable": true,
+      "service_status": "Active",
+      "verified_agency": "WBTC AC"
+    }
+  ],
+  "metro_stations": [
+    {
+      "name": "Shyambazar",
+      "line": "Blue Line (Line 1)",
+      "region": "North Kolkata",
+      "serves": "Bagbazar, Hatibagan, Nalin Sarkar St, Sikdar Bagan, Jagat Mukherjee Park",
+      "night_service": "Runs until 4:00 AM on Saptami, Ashtami, Nabami"
+    },
+    {
+      "name": "Sovabazar Sutanuti",
+      "line": "Blue Line (Line 1)",
+      "region": "North Kolkata",
+      "serves": "Kumartuli Park, Sovabazar Rajbari, Ahiritola, Beniatola",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Girish Park",
+      "line": "Blue Line (Line 1)",
+      "region": "North/Central Kolkata",
+      "serves": "Kashi Bose Lane, Simla Vyayam Samity, Maniktala Chaltabagan",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Mahatma Gandhi Road",
+      "line": "Blue Line (Line 1)",
+      "region": "Central Kolkata",
+      "serves": "Mohammad Ali Park, College Square, Thanthania Dutta Bari",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Central",
+      "line": "Blue Line (Line 1)",
+      "region": "Central Kolkata",
+      "serves": "Santosh Mitra Square, Bowbazar Sarbojanin, Subodh Mallick Square",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Esplanade",
+      "line": "Blue & Green Line Interchange",
+      "region": "Central Kolkata",
+      "serves": "Janbazar Sarbojanin, New Market, Direct underwater transit to Howrah Station",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Sealdah",
+      "line": "Green Line (East-West Line 2)",
+      "region": "Central Kolkata",
+      "serves": "Santosh Mitra Square, Sealdah Railway Athletic Club, Entally",
+      "night_service": "Runs until 2:00 AM"
+    },
+    {
+      "name": "Kalighat",
+      "line": "Blue Line (Line 1)",
+      "region": "South Kolkata",
+      "serves": "Deshapriya Park, Tridhara, Badamtala, 66 Pally, Singhi Park, Mudiali",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Rabindra Sarobar",
+      "line": "Blue Line (Line 1)",
+      "region": "South Kolkata",
+      "serves": "Mudiali Club, Shiv Mandir, Southern Avenue pandals",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Jatin Das Park",
+      "line": "Blue Line (Line 1)",
+      "region": "South Kolkata",
+      "serves": "Maddox Square, Ballygunge Cultural, Samaj Sebi Sangha",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Gitanjali (Naktala)",
+      "line": "Blue Line (Line 1)",
+      "region": "South Kolkata",
+      "serves": "Naktala Udayan Sangha",
+      "night_service": "Runs until 4:00 AM"
+    },
+    {
+      "name": "Majerhat",
+      "line": "Purple Line (Line 3)",
+      "region": "South Kolkata",
+      "serves": "Suruchi Sangha, Chetla Agrani, New Alipore",
+      "night_service": "Special Puja Day Schedule until 11:30 PM"
+    }
+  ],
+  "railway_hubs": [
+    {
+      "name": "Sealdah Junction (SDAH)",
+      "type": "Suburban & Long Distance",
+      "region": "Central Kolkata",
+      "connectivity": "Direct walk to Santosh Mitra Square & Central Pujas. Suburban train operations 24x7 during Puja."
+    },
+    {
+      "name": "Howrah Junction (HWH)",
+      "type": "Interstate Terminal",
+      "region": "Gateway across Hooghly",
+      "connectivity": "Connected by Green Line underwater metro to Esplanade & Sealdah; 24-hr ferry services from Howrah Ghat to Bagbazar & Ahiritola."
+    },
+    {
+      "name": "Kolkata Station / Chitpur (KOAA)",
+      "type": "North Terminal",
+      "region": "North Kolkata",
+      "connectivity": "5 min commute to Tala Barowari and Bagbazar."
+    },
+    {
+      "name": "Bidhannagar Road (BNXR)",
+      "type": "Suburban Hub",
+      "region": "North-East Kolkata",
+      "connectivity": "Prime gateway for Ultadanga, Telengabagan, Dum Dum Park, Sreebhumi."
+    },
+    {
+      "name": "Ballygunge Junction (BLN)",
+      "type": "Suburban Hub",
+      "region": "South Kolkata",
+      "connectivity": "Walking distance to Ekdalia Evergreen, Singhi Park, Maddox Square."
+    },
+    {
+      "name": "Dhakuria Station",
+      "type": "Suburban Stop",
+      "region": "South Kolkata",
+      "connectivity": "Direct access to Babubagan, Selimpur Pally, Jodhpur Park."
+    }
+  ]
+}

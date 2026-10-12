@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "NK-01",
+    "pandal_number": 1,
+    "name": "Bagbazar Sarbojanin Durgotsav",
+    "bengali_name": "বাগবাজার সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Bagbazar / Shyambazar",
+    "address": "7/1, Bagbazar Street, Near Bagbazar Ghat, Kolkata 700003",
+    "latitude": 22.6028,
+    "longitude": 88.3686,
+    "nearby_metro": "Shyambazar Metro Station (Blue Line)",
+    "nearby_railway": "Bagbazar Circular Railway / Kolkata Station (Chitpur)",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "240/1",
+        "215A",
+        "222",
+        "30B",
+        "30C",
+        "32A",
+        "34C",
+        "43",
+        "44",
+        "78",
+        "78/1"
+      ],
+      "mini_buses": [
+        "Bagbazar - Howrah",
+        "Shyambazar - BBD Bag",
+        "Shyambazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "S-32A",
+        "C-8",
+        "C-24",
+        "EB-1",
+        "D-7/1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10",
+        "AC-52",
+        "VS-1",
+        "VS-2"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "240",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Bagbazar Ghat",
+        "destination": "Howrah Station",
+        "first_service": "05:30 AM",
+        "last_service": "10:45 PM",
+        "scheduled_departures": "Every 10-15 mins",
+        "frequency": "12 mins",
+        "operating_days": "All Days (Extended Night Puja Hours)",
+        "service_status": "Active (Puja Special Extended)",
+        "source": "WBTC Official Transit Roster & Kolkata Police Traffic Guide",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "S-9A",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Shyambazar Five Point",
+        "destination": "Garia Depot",
+        "first_service": "06:00 AM",
+        "last_service": "11:30 PM",
+        "scheduled_departures": "06:00, 06:30, 07:00, 07:30, 08:00, 09:00, 10:30, 12:00, 14:00, 16:30, 18:00, 20:00, 22:00, 23:30",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "AC-10",
+        "bus_type": "AC Express",
+        "boarding_stop": "Shyambazar Five Point",
+        "destination": "Howrah Station via Central",
+        "first_service": "07:00 AM",
+        "last_service": "11:00 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC AC Transport Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Over a century old traditional *Ekchala* Pratima with authentic *Daaker Saaj*. Iconic cultural hub with Sindoor Khela on Dashami.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "High (Peak: 7 PM - 2 AM)",
+    "best_visiting_time": "Morning (7:00 AM - 11:00 AM) or Late Night (2:00 AM - 5:00 AM)",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 1,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-02",
+    "pandal_number": 2,
+    "name": "Kumartuli Park Sarbojanin",
+    "bengali_name": "কুমারটুলী পার্ক সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Kumartuli / Sovabazar",
+    "address": "8/B, Abhay Charan Mitra Street, Sovabazar, Kolkata 700005",
+    "latitude": 22.5992,
+    "longitude": 88.3653,
+    "nearby_metro": "Sovabazar Sutanuti Metro Station",
+    "nearby_railway": "Sovabazar Ghat Circular Railway / Kolkata Station",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "215A",
+        "30B",
+        "32A",
+        "43",
+        "44",
+        "78"
+      ],
+      "mini_buses": [
+        "Bagbazar - Howrah",
+        "Kumartuli - BBD Bag",
+        "Shyambazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "S-32A",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10",
+        "AC-52"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "215A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Sovabazar Ferry / Rabindra Sarani",
+        "destination": "Salt Lake Karunamoyee",
+        "first_service": "06:15 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "Kolkata Police Puja Bus Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Located in the heart of Kolkata's legendary idol-makers colony. Renowned for spectacular creative themes blending sculpture and heritage.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "Very High",
+    "best_visiting_time": "Afternoon 3:00 PM - 5:00 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 1,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-03",
+    "pandal_number": 3,
+    "name": "Kumartuli Sarbojanin Durgotsab",
+    "bengali_name": "কুমারটুলী সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Kumartuli / Sovabazar",
+    "address": "Banamali Sarkar Street, Kumartuli, Kolkata 700005",
+    "latitude": 22.6006,
+    "longitude": 88.3659,
+    "nearby_metro": "Sovabazar Sutanuti Metro Station",
+    "nearby_railway": "Sovabazar Ghat Circular Railway",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "30B",
+        "32A",
+        "43",
+        "78"
+      ],
+      "mini_buses": [
+        "Bagbazar - Howrah",
+        "Shyambazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-32A",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "32A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Rabindra Sarani / Sovabazar",
+        "destination": "Dakshineswar",
+        "first_service": "06:00 AM",
+        "last_service": "09:45 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "Neighborhood Transit Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Traditional heritage Puja organized by the master artisans of Kumartuli themselves.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Early Morning 8:00 AM - 11:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-04",
+    "pandal_number": 4,
+    "name": "Sovabazar Rajbari Durga Puja",
+    "bengali_name": "শোভাবাজার রাজবাড়ী দুর্গাপূজা",
+    "region": "North Kolkata",
+    "neighborhood": "Sovabazar",
+    "address": "33 and 36, Raja Nabakrishna Street, Sovabazar, Kolkata 700005",
+    "latitude": 22.5977,
+    "longitude": 88.3672,
+    "nearby_metro": "Sovabazar Sutanuti Metro Station",
+    "nearby_railway": "Sovabazar Ghat Circular Railway",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "215A",
+        "222",
+        "30B",
+        "43",
+        "44",
+        "78"
+      ],
+      "mini_buses": [
+        "Shyambazar - BBD Bag",
+        "Bagbazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "EB-1",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "222",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Sovabazar Crossing",
+        "destination": "Behala Chowrasta",
+        "first_service": "06:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Historic royal family Puja started in 1757 by Raja Nabakrishna Deb. Magnificent thakur dalan, pure classical tradition, and immersion ceremony.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High on Ashtami & Nabami",
+    "best_visiting_time": "Morning Puja Hours 9:00 AM - 12:00 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-05",
+    "pandal_number": 5,
+    "name": "Ahiritola Sarbojanin Durgotsab",
+    "bengali_name": "আহিরীটোলা সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Ahiritola / Sovabazar",
+    "address": "13, Ahiritola Street, Near Ahiritola Ghat, Kolkata 700005",
+    "latitude": 22.5954,
+    "longitude": 88.3621,
+    "nearby_metro": "Sovabazar Sutanuti Metro Station",
+    "nearby_railway": "Ahiritola Ghat Circular Railway / Sovabazar Ghat",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "30B",
+        "32A",
+        "43",
+        "78",
+        "78/1"
+      ],
+      "mini_buses": [
+        "Ahiritola - Howrah",
+        "Bagbazar - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-32A"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "240",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Ahiritola Ghat",
+        "destination": "Howrah Station",
+        "first_service": "05:45 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 12 mins",
+        "frequency": "12 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Bus Timetable",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Grand theme-based pandal near the Ganga waterfront. Famous for intricate lighting installations and thought-provoking social artwork.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Evening 5:00 PM - 7:00 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-06",
+    "pandal_number": 6,
+    "name": "Beniatola Sarbojanin Durgotsab",
+    "bengali_name": "বেনিয়াটোলা সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Beniatola / Sovabazar",
+    "address": "Beniatola Lane, Sovabazar, Kolkata 700005",
+    "latitude": 22.5968,
+    "longitude": 88.3642,
+    "nearby_metro": "Sovabazar Sutanuti Metro Station",
+    "nearby_railway": "Sovabazar Ghat Circular Railway",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "30B",
+        "43",
+        "78"
+      ],
+      "mini_buses": [
+        "Bagbazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "43",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Rabindra Sarani",
+        "destination": "Babu Ghat",
+        "first_service": "06:30 AM",
+        "last_service": "09:30 PM",
+        "scheduled_departures": "Bus route listed in the provided guide. Exact timetable not available.",
+        "frequency": "Approx 20 mins",
+        "operating_days": "All Days",
+        "service_status": "Live bus tracking unavailable.",
+        "source": "NORTH_KOLKATA.pdf (Page 3)",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Traditional community puja with artisanal clay craftsmanship and heritage ambiance.",
+    "estimated_visit_duration": "30 mins",
+    "crowd_level": "Moderate to High",
+    "best_visiting_time": "Late night 1:00 AM - 3:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 3,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-07",
+    "pandal_number": 7,
+    "name": "Hatibagan Sarbojanin Durgotsav",
+    "bengali_name": "হাতিবাগান সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Hatibagan / Shyambazar",
+    "address": "Near Hatibagan Market & Star Theatre, Kolkata 700006",
+    "latitude": 22.5962,
+    "longitude": 88.3734,
+    "nearby_metro": "Shyambazar / Girish Park Metro Station",
+    "nearby_railway": "Bidhannagar Road / Kolkata Station",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "30B",
+        "30C",
+        "32A",
+        "34C",
+        "215A",
+        "222",
+        "230",
+        "240"
+      ],
+      "mini_buses": [
+        "Shyambazar - Howrah",
+        "Hatibagan - Esplanade"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "S-32A",
+        "C-8",
+        "C-24",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10",
+        "AC-52",
+        "VS-1"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "11A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Hatibagan Crossing",
+        "destination": "Howrah Station via Manicktala",
+        "first_service": "06:00 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "15",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Khanna / Hatibagan",
+        "destination": "Howrah Station via MG Road",
+        "first_service": "06:00 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "One of the most prominent traditional pujas of North Kolkata located right in the theater district. Celebrated for over 85 years.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Morning 8:00 AM - 11:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 3,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-08",
+    "pandal_number": 8,
+    "name": "Nalin Sarkar Street Sarbojanin",
+    "bengali_name": "নলীন সরকার স্ট্রিট সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Hatibagan / Shyambazar",
+    "address": "Nalin Sarkar Street, Hatibagan, Kolkata 700004",
+    "latitude": 22.5978,
+    "longitude": 88.3746,
+    "nearby_metro": "Shyambazar Metro Station",
+    "nearby_railway": "Bidhannagar Road",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "30B",
+        "30C",
+        "34C",
+        "215A",
+        "240"
+      ],
+      "mini_buses": [
+        "Shyambazar - Howrah",
+        "Khanna - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "C-24"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "30B",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Shyambazar Five Point",
+        "destination": "Airport Gate 1",
+        "first_service": "05:30 AM",
+        "last_service": "10:45 PM",
+        "scheduled_departures": "Every 12 mins",
+        "frequency": "12 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Renowned for its avant-garde artistic themes, eco-friendly sculptures, and mesmerizing lighting. Winner of numerous Asian Paints Sharad Shamman awards.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Very High",
+    "best_visiting_time": "Late Night 1:30 AM - 4:30 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 4,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-09",
+    "pandal_number": 9,
+    "name": "Sikdar Bagan Sadharan Durgotsav",
+    "bengali_name": "শিকদার বাগান সাধারণ দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Hatibagan / Shyambazar",
+    "address": "62, Sikdar Bagan Street, Hatibagan, Kolkata 700004",
+    "latitude": 22.5971,
+    "longitude": 88.3718,
+    "nearby_metro": "Shyambazar Metro Station",
+    "nearby_railway": "Kolkata Station (Chitpur)",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "30B",
+        "30C",
+        "215A",
+        "240"
+      ],
+      "mini_buses": [
+        "Shyambazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "34C",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Shyambazar",
+        "destination": "Purba Putiary",
+        "first_service": "06:00 AM",
+        "last_service": "09:30 PM",
+        "scheduled_departures": "Bus route listed in the provided guide. Exact timetable not available.",
+        "frequency": "Approx 20 mins",
+        "operating_days": "All Days",
+        "service_status": "Live bus tracking unavailable.",
+        "source": "NORTH_KOLKATA.pdf (Page 4)",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Historic community puja celebrated for its handcrafted clay artistry and unique idol representations in a classic North Kolkata courtyard setup.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 8:00 AM - 11:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 4,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-10",
+    "pandal_number": 10,
+    "name": "Kashi Bose Lane Durga Puja Samiti",
+    "bengali_name": "কাশী বোস লেন দুর্গাপূজা সমিতি",
+    "region": "North Kolkata",
+    "neighborhood": "Maniktala / Girish Park",
+    "address": "Kashi Bose Lane, Manicktala, Kolkata 700006",
+    "latitude": 22.5898,
+    "longitude": 88.3715,
+    "nearby_metro": "Girish Park Metro Station",
+    "nearby_railway": "Sealdah / Bidhannagar Road",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "30B",
+        "34C",
+        "215A",
+        "222",
+        "230"
+      ],
+      "mini_buses": [
+        "Manicktala - Howrah",
+        "Shyambazar - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "C-8",
+        "C-24"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10",
+        "AC-52"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "230",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Manicktala Crossing",
+        "destination": "Dankuni",
+        "first_service": "06:00 AM",
+        "last_service": "09:45 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Famed for award-winning high-concept thematic pandals addressing environmental and cultural themes. Always draws huge queues.",
+    "estimated_visit_duration": "50 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late Night 2:00 AM - 5:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 5,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-11",
+    "pandal_number": 11,
+    "name": "Maniktala Chaltabagan Lohapatty Durgotsav",
+    "bengali_name": "মানিকতলা চালতাবাগান লোহাপট্টি দুর্গাপূজা",
+    "region": "North Kolkata",
+    "neighborhood": "Maniktala / Amherst Street",
+    "address": "Raja Ram Mohan Sarani & Lohapatty, Maniktala, Kolkata 700009",
+    "latitude": 22.5857,
+    "longitude": 88.3732,
+    "nearby_metro": "Girish Park / Central Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "215A",
+        "222",
+        "230",
+        "240"
+      ],
+      "mini_buses": [
+        "Manicktala - Howrah",
+        "Amherst St - Esplanade"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "C-24"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "C-24",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Manicktala Lohapatty",
+        "destination": "Howrah Station",
+        "first_service": "06:30 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "06:30, 07:15, 08:00, 09:00, 10:30, 12:00, 14:00, 16:00, 18:00, 20:00, 22:30",
+        "frequency": "45 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Official Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Famous for spectacular Dhunuchi Naach on Maha Saptami and grand glasswork and mirror pandal architecture.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "Very High",
+    "best_visiting_time": "Early Evening 4:30 PM - 6:30 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 5,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-12",
+    "pandal_number": 12,
+    "name": "Telengabagan Sarbojanin Durgotsav",
+    "bengali_name": "তেলেঙ্গাবাগান সর্বজনীন দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Ultadanga",
+    "address": "Gurudas Dutta Garden Lane, Ultadanga, Kolkata 700067",
+    "latitude": 22.5931,
+    "longitude": 88.3847,
+    "nearby_metro": "Shyambazar Metro / Phoolbagan Metro",
+    "nearby_railway": "Bidhannagar Road Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "15",
+        "30B",
+        "30C",
+        "30D",
+        "44",
+        "45",
+        "46",
+        "215A"
+      ],
+      "mini_buses": [
+        "Ultadanga - Howrah",
+        "Ultadanga - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-12",
+        "S-12D",
+        "C-8",
+        "EB-2"
+      ],
+      "ac_buses": [
+        "AC-12",
+        "AC-39",
+        "AC-47",
+        "VS-1"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-12",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Ultadanga Crossing (Hudco)",
+        "destination": "Howrah Station via Bidhannagar",
+        "first_service": "06:00 AM",
+        "last_service": "11:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "A pioneer in theme-based celebrations in Ultadanga, known for striking aesthetic craftsmanship and lighting.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 8:30 AM - 11:30 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 6,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-13",
+    "pandal_number": 13,
+    "name": "Dum Dum Park Bharat Chakra",
+    "bengali_name": "দমদম পার্ক ভারত চক্র",
+    "region": "North Kolkata",
+    "neighborhood": "Dum Dum Park / Lake Town",
+    "address": "Dum Dum Park, Near Tank No. 2, Kolkata 700055",
+    "latitude": 22.6074,
+    "longitude": 88.4068,
+    "nearby_metro": "Dum Dum Metro Station (Blue Line)",
+    "nearby_railway": "Dum Dum Junction / Bidhannagar Road",
+    "bus_routes": {
+      "private_buses": [
+        "30B",
+        "30C",
+        "30D",
+        "44",
+        "45",
+        "46",
+        "211",
+        "215A"
+      ],
+      "mini_buses": [
+        "Dum Dum Park - Howrah",
+        "Lake Town - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-12",
+        "S-22",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-39",
+        "AC-47",
+        "VS-2"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "211",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Dum Dum Park VIP Road Stop",
+        "destination": "Salt Lake Sector V / Karunamoyee",
+        "first_service": "06:00 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Famous for innovative installations fusing folk art traditions with modern spatial architecture.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late Night 1:00 AM - 4:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 6,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-14",
+    "pandal_number": 14,
+    "name": "Dum Dum Park Tarun Sangha",
+    "bengali_name": "দমদম পার্ক তরুণ সংঘ",
+    "region": "North Kolkata",
+    "neighborhood": "Dum Dum Park / Lake Town",
+    "address": "Dum Dum Park, Near Shyamnagar Lake, Kolkata 700055",
+    "latitude": 22.6082,
+    "longitude": 88.4081,
+    "nearby_metro": "Dum Dum Metro Station",
+    "nearby_railway": "Dum Dum Junction / Bidhannagar Road",
+    "bus_routes": {
+      "private_buses": [
+        "30B",
+        "30C",
+        "45",
+        "46",
+        "211",
+        "215A"
+      ],
+      "mini_buses": [
+        "Dum Dum Park - Howrah"
+      ],
+      "government_buses": [
+        "S-12",
+        "S-22",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-39",
+        "AC-47"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "30C",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Dum Dum Park VIP Gate",
+        "destination": "Babughat via Shyambazar",
+        "first_service": "05:45 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Renowned for its thematic storytelling, colorful lighting concepts, and environmental motifs.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Afternoon 3:00 PM - 5:00 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 7,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-15",
+    "pandal_number": 15,
+    "name": "Sreebhumi Sporting Club",
+    "bengali_name": "শ্রীভূমি স্পোর্টিং ক্লাব",
+    "region": "North Kolkata",
+    "neighborhood": "Lake Town / VIP Road",
+    "address": "VIP Road, Lake Town, Kolkata 700089",
+    "latitude": 22.6021,
+    "longitude": 88.4022,
+    "nearby_metro": "Ultadanga / Belgachia Metro Station",
+    "nearby_railway": "Bidhannagar Road Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "30B",
+        "30C",
+        "30D",
+        "44",
+        "45",
+        "46",
+        "211",
+        "215A",
+        "222"
+      ],
+      "mini_buses": [
+        "Lake Town - Howrah",
+        "Lake Town - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-12",
+        "S-12D",
+        "S-22",
+        "C-8",
+        "EB-1",
+        "EB-2"
+      ],
+      "ac_buses": [
+        "AC-39",
+        "AC-47",
+        "AC-52",
+        "VS-1",
+        "VS-2"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "AC-39",
+        "bus_type": "AC Express",
+        "boarding_stop": "Sreebhumi VIP Footbridge",
+        "destination": "Howrah Station",
+        "first_service": "06:00 AM",
+        "last_service": "11:30 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active (Puja Peak Service)",
+        "source": "WBTC Official Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "S-22",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Lake Town Crossing",
+        "destination": "Shakuntala Park (Behala)",
+        "first_service": "06:30 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "06:30, 07:15, 08:00, 09:30, 11:00, 13:00, 15:00, 17:30, 19:30, 21:30",
+        "frequency": "45 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Grand royal palace replicas with pure gold ornaments on Maa Durga idol. Massive crowd puller on VIP Road corridor with world-class lighting.",
+    "estimated_visit_duration": "60 mins",
+    "crowd_level": "Extreme (Expect long lines)",
+    "best_visiting_time": "Early Morning 6:00 AM - 9:00 AM or Late Night 2:30 AM - 5:00 AM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 7,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-16",
+    "pandal_number": 16,
+    "name": "Tala Barowari Durgotsav",
+    "bengali_name": "তালা বারোয়ারী দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Tala / Belgachia",
+    "address": "Tala Park, Raja Manindra Road, Belgachia, Kolkata 700037",
+    "latitude": 22.6071,
+    "longitude": 88.3752,
+    "nearby_metro": "Belgachia Metro Station",
+    "nearby_railway": "Tala Circular Railway / Kolkata Station",
+    "bus_routes": {
+      "private_buses": [
+        "30B",
+        "32A",
+        "34C",
+        "43",
+        "78",
+        "215A",
+        "222"
+      ],
+      "mini_buses": [
+        "Tala - Howrah",
+        "Shyambazar - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "S-32A"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "32A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Belgachia Metro Crossing",
+        "destination": "Dakshineswar",
+        "first_service": "06:15 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Historic century-old community puja known for innovative environmental concepts, handicraft motifs, and peaceful residential park setting.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "Moderate to High",
+    "best_visiting_time": "Morning 9:00 AM - 12:00 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 8,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "NK-17",
+    "pandal_number": 17,
+    "name": "Jagat Mukherjee Park Durgotsav",
+    "bengali_name": "জগৎ মুখার্জী পার্ক দুর্গোৎসব",
+    "region": "North Kolkata",
+    "neighborhood": "Shyambazar",
+    "address": "Jagat Mukherjee Park, Jatindra Mohan Avenue, Shyambazar, Kolkata 700005",
+    "latitude": 22.5999,
+    "longitude": 88.3698,
+    "nearby_metro": "Shyambazar Metro Station",
+    "nearby_railway": "Sovabazar Ghat / Kolkata Station",
+    "bus_routes": {
+      "private_buses": [
+        "240",
+        "215A",
+        "30B",
+        "32A",
+        "43",
+        "78"
+      ],
+      "mini_buses": [
+        "Shyambazar - Howrah"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "78",
+        "bus_type": "Private Bus",
+        "boarding_stop": "JM Avenue",
+        "destination": "Barrackpore",
+        "first_service": "05:30 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Creative thematic depictions, historical recreations, and close walking proximity to Bagbazar and Sovabazar.",
+    "estimated_visit_duration": "30 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Early evening 5:00 PM - 7:00 PM",
+    "source_pdf": "NORTH_KOLKATA.pdf",
+    "source_page": 8,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  }
+]

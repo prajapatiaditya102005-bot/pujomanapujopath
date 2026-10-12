@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "Travel Smarter This Puja: Verified Alerts & Advisory",
+    "authority": "Kolkata Police Traffic Department & WB Transport Corporation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  "traffic_alerts": [
+    {
+      "id": "TA-01",
+      "category": "Road Closure & Pedestrian Only",
+      "title": "Rashbehari Avenue Pedestrian Corridor",
+      "location": "Rashbehari Avenue (between Gariahat Crossing & Chetla Bridge)",
+      "timing": "Daily from 4:00 PM to 4:00 AM (Sasthi to Dashami)",
+      "detail": "No private cars or four-wheelers permitted. Dedicated pedestrian pathways established. Emergency vehicles exempt.",
+      "status_badge": "Official Published",
+      "severity": "High"
+    },
+    {
+      "id": "TA-02",
+      "category": "One-Way Traffic Restriction",
+      "title": "Chittaranjan (C.R.) Avenue Flow Adjustment",
+      "location": "C.R. Avenue from MG Road to Girish Park",
+      "timing": "Daily from 3:00 PM to 5:00 AM",
+      "detail": "One-way northward flow for commercial and transport buses. Southward traffic diverted via Bidhan Sarani and Amherst Street.",
+      "status_badge": "Official Published",
+      "severity": "Medium"
+    },
+    {
+      "id": "TA-03",
+      "category": "Major Chokepoint & Diversion",
+      "title": "VIP Road Sreebhumi Service Lane Restriction",
+      "location": "VIP Road at Lake Town & Sreebhumi Entry",
+      "timing": "24 Hours active during Puja days",
+      "detail": "Main VIP Road flyovers open for airport commuters. Service roads strictly pedestrianized. Airport travelers must use the main flyover to avoid 90+ min gridlocks.",
+      "status_badge": "Live Verified",
+      "severity": "Critical"
+    },
+    {
+      "id": "TA-04",
+      "category": "Pedestrian Safety Zone",
+      "title": "Bagbazar Street & Rabindra Sarani Corridor",
+      "location": "Bagbazar Street between Shyambazar 5-Point & Bagbazar Ghat",
+      "timing": "Daily from 2:00 PM to 5:00 AM",
+      "detail": "Closed for heavy motorized transport. Tram lines barricaded for organized queue management into Bagbazar Sarbojanin.",
+      "status_badge": "Official Published",
+      "severity": "High"
+    }
+  ],
+  "crowd_advisories": [
+    {
+      "id": "CA-01",
+      "zone": "North Kolkata Heritage Cluster",
+      "peak_hours": "07:30 PM - 01:30 AM",
+      "recommended_window": "07:00 AM - 11:30 AM (Morning) or 02:00 AM - 05:00 AM (Late Night)",
+      "advisory": "Pandals like Bagbazar and Sovabazar Rajbari are peaceful during early morning puja offering hours. Use Shyambazar or Sovabazar metro.",
+      "status_badge": "Historical / Estimated"
+    },
+    {
+      "id": "CA-02",
+      "zone": "Central Mega Pandal Corridor",
+      "peak_hours": "06:00 PM - 02:30 AM",
+      "recommended_window": "06:30 AM - 09:30 AM or 01:00 AM - 04:30 AM",
+      "advisory": "Santosh Mitra Square and College Square experience extreme human density. Avoid carrying bulky backpacks. Expect serpentine barricaded queues.",
+      "status_badge": "Official Published"
+    },
+    {
+      "id": "CA-03",
+      "zone": "South Kolkata Glamour Circuit",
+      "peak_hours": "06:00 PM - 03:00 AM",
+      "recommended_window": "08:00 AM - 12:00 PM or 02:30 AM - 05:30 AM",
+      "advisory": "Ekdalia Evergreen and Singhi Park queues converge at Gariahat. Visitors are advised to alight at Kalighat Metro and walk via Southern Avenue.",
+      "status_badge": "Live Verified"
+    }
+  ],
+  "alternative_pandals": [
+    {
+      "busy_pandal": "Sreebhumi Sporting Club",
+      "alternatives": [
+        "Tala Barowari Durgotsav",
+        "Jagat Mukherjee Park"
+      ],
+      "reason": "Rich heritage artwork, tranquil open park environment, and zero crushing vehicular gridlock compared to VIP Road."
+    },
+    {
+      "busy_pandal": "Santosh Mitra Square",
+      "alternatives": [
+        "Simla Vyayam Samity",
+        "Ram Mohan Smriti Mandir"
+      ],
+      "reason": "Authentic freedom movement history and magnificent classical idols within 10 minutes walking radius without 3-hour barricades."
+    },
+    {
+      "busy_pandal": "Ekdalia Evergreen Club",
+      "alternatives": [
+        "Mudiali Club",
+        "Shiv Mandir Sarbojanin"
+      ],
+      "reason": "Lakeside serenity along Southern Avenue with world-class artistic theme architecture and spacious walking paths."
+    }
+  ]
+}

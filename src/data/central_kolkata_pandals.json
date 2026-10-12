@@ -1,0 +1,766 @@
+[
+  {
+    "id": "CK-01",
+    "pandal_number": 1,
+    "name": "Mohammad Ali Park Durga Puja",
+    "bengali_name": "মহম্মদ আলী পার্ক দুর্গাপূজা",
+    "region": "Central Kolkata",
+    "neighborhood": "MG Road / Central",
+    "address": "Opposite Calcutta University, CR Avenue & MG Road Crossing, Kolkata 700073",
+    "latitude": 22.5794,
+    "longitude": 88.3601,
+    "nearby_metro": "Mahatma Gandhi Road (M.G. Road) Metro Station",
+    "nearby_railway": "Sealdah Railway Station / Howrah Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "1A",
+        "2",
+        "3",
+        "3B",
+        "3C",
+        "3D",
+        "11A",
+        "15",
+        "24A",
+        "39",
+        "43",
+        "44",
+        "47",
+        "78",
+        "215A",
+        "222",
+        "230",
+        "240"
+      ],
+      "mini_buses": [
+        "MG Road - Howrah",
+        "Central - BBD Bag",
+        "Sealdah - Howrah"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-5C",
+        "S-7",
+        "S-9A",
+        "S-10",
+        "S-12",
+        "C-8",
+        "C-24",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-4",
+        "AC-10",
+        "AC-12",
+        "AC-24",
+        "VS-1"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-5C",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "MG Road Crossing",
+        "destination": "Howrah Station to Gariahat",
+        "first_service": "06:00 AM",
+        "last_service": "11:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Central Corridor Schedule",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "AC-1",
+        "bus_type": "AC Express",
+        "boarding_stop": "Central Metro Gate",
+        "destination": "Jadavpur via Esplanade",
+        "first_service": "07:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC AC Transport Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Grand heritage replica pandal situated right on Central Avenue with magnificent illumination and towering architectural facades.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High (Continuous evening queue)",
+    "best_visiting_time": "Late Night (1:30 AM - 4:30 AM) or Morning (8:00 AM - 10:30 AM)",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 1,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-02",
+    "pandal_number": 2,
+    "name": "College Square Sarbojanin Durgotsav",
+    "bengali_name": "কলেজ স্কোয়ার সর্বজনীন দুর্গোৎসব",
+    "region": "Central Kolkata",
+    "neighborhood": "College Street / Bowbazar",
+    "address": "53, College Street, Beside Calcutta University & Presidency, Kolkata 700073",
+    "latitude": 22.5768,
+    "longitude": 88.3639,
+    "nearby_metro": "Mahatma Gandhi Road / Central Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "1A",
+        "2",
+        "3",
+        "3B",
+        "3C",
+        "11A",
+        "15",
+        "24A",
+        "39",
+        "44",
+        "78",
+        "215A",
+        "222",
+        "240"
+      ],
+      "mini_buses": [
+        "College Square - Howrah",
+        "Sealdah - BBD Bag",
+        "Bowbazar - Howrah"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-9A",
+        "S-10",
+        "S-12",
+        "C-8",
+        "C-24",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-4",
+        "AC-10",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "3B",
+        "bus_type": "Private Bus",
+        "boarding_stop": "College Street Crossing",
+        "destination": "Picnic Garden",
+        "first_service": "06:00 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "AC-24",
+        "bus_type": "AC Express",
+        "boarding_stop": "College Street / Surya Sen St",
+        "destination": "Howrah Station via BBD Bag",
+        "first_service": "07:15 AM",
+        "last_service": "10:45 PM",
+        "scheduled_departures": "Every 25 mins",
+        "frequency": "25 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC AC Transport Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Legendary lakeside illuminated pandal reflecting over the water tank. Mesmerizing Chandannagar lighting display is an iconic Kolkata landmark.",
+    "estimated_visit_duration": "50 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Midnight (12:30 AM - 3:30 AM) or Morning (7:30 AM - 10:00 AM)",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 1,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-03",
+    "pandal_number": 3,
+    "name": "Santosh Mitra Square (Lebutala)",
+    "bengali_name": "সন্তোষ মিত্র স্কোয়ার (লেবুবাগান/লেবুবাগান সর্বজনীন)",
+    "region": "Central Kolkata",
+    "neighborhood": "Bowbazar / Sealdah",
+    "address": "Santosh Mitra Square Park, Ram Mohan Bera Lane, Bowbazar, Kolkata 700012",
+    "latitude": 22.5695,
+    "longitude": 88.3687,
+    "nearby_metro": "Central Metro Station / Sealdah Metro Station (Green Line)",
+    "nearby_railway": "Sealdah Railway Station (5 min walk)",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3B",
+        "24A",
+        "39",
+        "44",
+        "45",
+        "47",
+        "71",
+        "72",
+        "75",
+        "76",
+        "215A",
+        "222",
+        "235"
+      ],
+      "mini_buses": [
+        "Sealdah - Howrah",
+        "Bowbazar - BBD Bag",
+        "Lebutala - Howrah"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-7",
+        "S-10",
+        "S-12",
+        "C-8",
+        "C-37",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-12",
+        "AC-24",
+        "VS-1"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-3A",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Sealdah Flyover / Bowbazar",
+        "destination": "Thakurpukur via Central",
+        "first_service": "06:00 AM",
+        "last_service": "10:45 PM",
+        "scheduled_departures": "06:00, 06:40, 07:20, 08:00, 09:00, 10:30, 12:00, 14:00, 16:00, 18:00, 20:00, 22:45",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Central Timetable",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "24A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Bowbazar Crossing",
+        "destination": "Mukundapur via EM Bypass",
+        "first_service": "06:15 AM",
+        "last_service": "09:45 PM",
+        "scheduled_departures": "Bus route listed in the provided guide. Exact timetable not available.",
+        "frequency": "Approx 15-20 mins",
+        "operating_days": "All Days",
+        "service_status": "Live bus tracking unavailable.",
+        "source": "CENTRAL _KOLKATA.pdf (Page 2)",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "One of India's biggest crowd-pullers famous for record-breaking architectural pandals (e.g. Ram Mandir, Sphere, Vande Mataram) and state-of-the-art laser projection shows.",
+    "estimated_visit_duration": "60 mins",
+    "crowd_level": "Colossal (Massive queue system managed by Kolkata Police)",
+    "best_visiting_time": "Early Morning 6:00 AM - 9:00 AM or Late Night 2:00 AM - 5:00 AM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-04",
+    "pandal_number": 4,
+    "name": "Simla Vyayam Samity",
+    "bengali_name": "শিমলা ব্যায়াম সমিতি",
+    "region": "Central Kolkata",
+    "neighborhood": "Girish Park / Vivekananda Road",
+    "address": "Vivekananda Road & Simla Street, Girish Park, Kolkata 700006",
+    "latitude": 22.5852,
+    "longitude": 88.3664,
+    "nearby_metro": "Girish Park Metro Station",
+    "nearby_railway": "Sealdah / Kolkata Station",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "24A",
+        "30B",
+        "34C",
+        "43",
+        "44",
+        "78",
+        "215A"
+      ],
+      "mini_buses": [
+        "Vivekananda Rd - Howrah",
+        "Shyambazar - BBD Bag"
+      ],
+      "government_buses": [
+        "S-9A",
+        "S-10",
+        "C-8",
+        "C-24"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "11A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Girish Park Crossing",
+        "destination": "Howrah Station",
+        "first_service": "06:00 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Historic revolutionary heritage puja founded in 1926 by freedom fighters. Renowned for swadeshi ethos and fierce traditional warrior-form idol of Maa Durga.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 9:00 AM - 12:00 PM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-05",
+    "pandal_number": 5,
+    "name": "Ram Mohan Smriti Mandir",
+    "bengali_name": "রামমোহন স্মৃতি মন্দির দুর্গোৎসব",
+    "region": "Central Kolkata",
+    "neighborhood": "Amherst Street / Sukhea Street",
+    "address": "85, Raja Ram Mohan Sarani (Amherst Street), Kolkata 700009",
+    "latitude": 22.5801,
+    "longitude": 88.3705,
+    "nearby_metro": "Central / Girish Park Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "11A",
+        "15",
+        "24A",
+        "39",
+        "44",
+        "215A"
+      ],
+      "mini_buses": [
+        "Amherst St - Esplanade"
+      ],
+      "government_buses": [
+        "S-9A",
+        "C-24",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-10"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "39",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Amherst Street Crossing",
+        "destination": "High Court / Babughat",
+        "first_service": "06:30 AM",
+        "last_service": "09:30 PM",
+        "scheduled_departures": "Bus route listed in the provided guide. Exact timetable not available.",
+        "frequency": "Approx 20 mins",
+        "operating_days": "All Days",
+        "service_status": "Live bus tracking unavailable.",
+        "source": "CENTRAL _KOLKATA.pdf (Page 3)",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Classic aristocratic ambiance, intricate clay shola craft work, and deep intellectual heritage.",
+    "estimated_visit_duration": "30 mins",
+    "crowd_level": "Moderate",
+    "best_visiting_time": "Afternoon 2:00 PM - 5:00 PM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 3,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-06",
+    "pandal_number": 6,
+    "name": "Subodh Mallick Square (Hindusthan Club)",
+    "bengali_name": "সুবোধ মল্লিক স্কোয়ার (হিন্দুস্থান ক্লাব সর্বজনীন)",
+    "region": "Central Kolkata",
+    "neighborhood": "Bowbazar / Dharamtala",
+    "address": "Subodh Mallick Square, Near Wellington Crossing, Kolkata 700013",
+    "latitude": 22.5642,
+    "longitude": 88.3587,
+    "nearby_metro": "Central / Chandni Chowk Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3B",
+        "3C",
+        "24A",
+        "39",
+        "47",
+        "71",
+        "72",
+        "75",
+        "215A"
+      ],
+      "mini_buses": [
+        "Wellington - Howrah",
+        "Esplanade - Sealdah"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-7",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-12",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "71",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Wellington Crossing",
+        "destination": "Howrah Station",
+        "first_service": "06:00 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Community celebration with grand illuminated archways, cultural music programs, and convenient central connectivity.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Late night 1:00 AM - 3:30 AM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 3,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-07",
+    "pandal_number": 7,
+    "name": "Bowbazar Sarbojanin Durgotsav",
+    "bengali_name": "বউবাজার সর্বজনীন দুর্গোৎসব",
+    "region": "Central Kolkata",
+    "neighborhood": "Bowbazar",
+    "address": "Bepin Behari Ganguly Street, Bowbazar, Kolkata 700012",
+    "latitude": 22.5684,
+    "longitude": 88.3619,
+    "nearby_metro": "Central Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3B",
+        "24A",
+        "39",
+        "47",
+        "71",
+        "72",
+        "75",
+        "215A"
+      ],
+      "mini_buses": [
+        "Bowbazar - Howrah"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-10",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "2",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Bowbazar Thana",
+        "destination": "Kudghat",
+        "first_service": "06:00 AM",
+        "last_service": "09:45 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Historic North-Central connector puja with traditional brass lamp lighting and classical idol styling.",
+    "estimated_visit_duration": "30 mins",
+    "crowd_level": "Moderate to High",
+    "best_visiting_time": "Evening 6:00 PM - 8:30 PM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 4,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-08",
+    "pandal_number": 8,
+    "name": "Janbazar Sarbojanin Durgotsav",
+    "bengali_name": "জানবাজার সর্বজনীন দুর্গোৎসব",
+    "region": "Central Kolkata",
+    "neighborhood": "Janbazar / Esplanade",
+    "address": "SN Banerjee Road, Janbazar, Near Esplanade, Kolkata 700013",
+    "latitude": 22.5611,
+    "longitude": 88.3548,
+    "nearby_metro": "Esplanade Metro Station (Interchange Blue & Green Lines)",
+    "nearby_railway": "Sealdah / Howrah Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3B",
+        "3C",
+        "12",
+        "13",
+        "24A",
+        "39",
+        "40",
+        "47",
+        "71",
+        "72",
+        "75",
+        "76",
+        "215A",
+        "222",
+        "235"
+      ],
+      "mini_buses": [
+        "Esplanade - Howrah",
+        "Esplanade - Shyambazar",
+        "Esplanade - Gariahat"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-5C",
+        "S-7",
+        "S-9A",
+        "S-10",
+        "S-12",
+        "C-8",
+        "C-24",
+        "C-37",
+        "EB-1",
+        "EB-2"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-4",
+        "AC-10",
+        "AC-12",
+        "AC-24",
+        "VS-1",
+        "VS-2"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-2",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Esplanade Bus Terminus",
+        "destination": "Kudghat",
+        "first_service": "05:45 AM",
+        "last_service": "11:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Official Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Located beside Rani Rashmoni historic palace, celebrating Rani Rashmoni's legacy of inclusive devotion.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 8:00 AM - 11:00 AM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 4,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-09",
+    "pandal_number": 9,
+    "name": "Entally Sarbojanin Durgotsab",
+    "bengali_name": "এন্টালী সর্বজনীন দুর্গোৎসব",
+    "region": "Central Kolkata",
+    "neighborhood": "Entally / Sealdah",
+    "address": "Dr Suresh Sarkar Road, Entally, Kolkata 700014",
+    "latitude": 22.5562,
+    "longitude": 88.3695,
+    "nearby_metro": "Sealdah Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "24A",
+        "39",
+        "45",
+        "47",
+        "71",
+        "72",
+        "215A"
+      ],
+      "mini_buses": [
+        "Entally - Howrah",
+        "Sealdah - BBD Bag"
+      ],
+      "government_buses": [
+        "S-3A",
+        "S-7",
+        "C-37"
+      ],
+      "ac_buses": [
+        "AC-12",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "45",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Entally Market",
+        "destination": "Airport Gate 1 via EM Bypass",
+        "first_service": "06:15 AM",
+        "last_service": "09:45 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Traditional community celebration known for vibrant dhak competitions and artistic idols.",
+    "estimated_visit_duration": "30 mins",
+    "crowd_level": "Moderate",
+    "best_visiting_time": "Afternoon 3:00 PM - 5:30 PM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 5,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "CK-10",
+    "pandal_number": 10,
+    "name": "Sealdah Railway Athletic Club Durgotsav",
+    "bengali_name": "শিয়ালদহ রেলওয়ে অ্যাথলেটিক ক্লাব দুর্গাপূজা",
+    "region": "Central Kolkata",
+    "neighborhood": "Sealdah",
+    "address": "Near Sealdah DRM Building & Station Complex, Kolkata 700014",
+    "latitude": 22.5668,
+    "longitude": 88.3712,
+    "nearby_metro": "Sealdah Metro Station",
+    "nearby_railway": "Sealdah Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3B",
+        "24A",
+        "39",
+        "44",
+        "45",
+        "47",
+        "71",
+        "72",
+        "75",
+        "76",
+        "215A",
+        "222",
+        "235"
+      ],
+      "mini_buses": [
+        "Sealdah - Howrah",
+        "Sealdah - BBD Bag",
+        "Sealdah - Shyambazar"
+      ],
+      "government_buses": [
+        "S-2",
+        "S-3A",
+        "S-7",
+        "S-10",
+        "S-12",
+        "C-8",
+        "C-37",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-12",
+        "AC-24",
+        "VS-1"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-10",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Sealdah Court",
+        "destination": "Nabanna via Howrah",
+        "first_service": "06:30 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "06:30, 07:15, 08:00, 09:30, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 22:30",
+        "frequency": "45 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Grand railway community puja showcasing monumental miniature locomotives, heritage train themes, and exquisite lighting.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Late night 1:30 AM - 4:00 AM",
+    "source_pdf": "CENTRAL _KOLKATA.pdf",
+    "source_page": 5,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  }
+]

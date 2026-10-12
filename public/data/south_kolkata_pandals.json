@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "SK-01",
+    "pandal_number": 1,
+    "name": "Ekdalia Evergreen Club",
+    "bengali_name": "একডালিয়া এভারগ্রীন ক্লাব",
+    "region": "South Kolkata",
+    "neighborhood": "Gariahat / Ballygunge",
+    "address": "15, Ekdalia Road, Gariahat, Kolkata 700019",
+    "latitude": 22.5204,
+    "longitude": 88.3671,
+    "nearby_metro": "Kalighat Metro Station (Blue Line) / Rabindra Sarobar",
+    "nearby_railway": "Ballygunge Junction (BLN)",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "1A",
+        "2",
+        "3",
+        "3B",
+        "3C",
+        "42A",
+        "45",
+        "45B",
+        "47",
+        "47A",
+        "47/1",
+        "212",
+        "218",
+        "221",
+        "223",
+        "227",
+        "234",
+        "240"
+      ],
+      "mini_buses": [
+        "Gariahat - Howrah",
+        "Gariahat - BBD Bag",
+        "Kasba - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "S-9A",
+        "S-21",
+        "S-24",
+        "S-31",
+        "C-8",
+        "C-26",
+        "C-41",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-6",
+        "AC-9",
+        "AC-14",
+        "AC-24",
+        "AC-43",
+        "V-1",
+        "V-9"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "AC-1",
+        "bus_type": "AC Express",
+        "boarding_stop": "Gariahat Crossing",
+        "destination": "Howrah Station via Esplanade",
+        "first_service": "06:00 AM",
+        "last_service": "11:15 PM",
+        "scheduled_departures": "Every 12 mins",
+        "frequency": "12 mins",
+        "operating_days": "All Days (Night Puja Extended)",
+        "service_status": "Active (Puja Special)",
+        "source": "WBTC Official Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "S-5C",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Gariahat Pantaloons",
+        "destination": "Howrah Station via Exide",
+        "first_service": "05:45 AM",
+        "last_service": "11:30 PM",
+        "scheduled_departures": "05:45, 06:15, 06:45, 07:15, 08:00, 09:00, 10:30, 12:00, 14:00, 16:30, 18:30, 20:30, 22:30, 23:30",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      },
+      {
+        "route": "47A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Gariahat More",
+        "destination": "Salt Lake Karunamoyee",
+        "first_service": "06:00 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Grand temple replica architecture with monumental German silver chandeliers and pure traditional idol. Unchanged tradition since 1943.",
+    "estimated_visit_duration": "50 mins",
+    "crowd_level": "Extreme (Top 3 most visited in South Kolkata)",
+    "best_visiting_time": "Late Night (2:00 AM - 5:00 AM) or Morning (7:00 AM - 10:30 AM)",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 1,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-02",
+    "pandal_number": 2,
+    "name": "Singhi Park Sarbojanin Durgotsav",
+    "bengali_name": "সিংহী পার্ক সর্বজনীন দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Gariahat / Dover Lane",
+    "address": "Dover Terrace, Gariahat, Kolkata 700029",
+    "latitude": 22.5186,
+    "longitude": 88.3655,
+    "nearby_metro": "Kalighat Metro Station",
+    "nearby_railway": "Ballygunge Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3B",
+        "42A",
+        "45",
+        "47",
+        "47A",
+        "212",
+        "218",
+        "221",
+        "240"
+      ],
+      "mini_buses": [
+        "Gariahat - Howrah",
+        "Gariahat - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "S-9A",
+        "C-8",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-6",
+        "AC-14",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "218",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Gariahat Junction",
+        "destination": "Howrah Station via Exide",
+        "first_service": "06:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Renowned for faithful replicas of India's prominent historic temples, heritage lighting, and peaceful park surroundings right across from Ekdalia.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "Very High",
+    "best_visiting_time": "Midnight (1:00 AM - 3:30 AM) or Morning (8:00 AM - 11:00 AM)",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 1,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-03",
+    "pandal_number": 3,
+    "name": "Ballygunge Cultural Association",
+    "bengali_name": "বালিগঞ্জ কালচারাল অ্যাসোসিয়েশন",
+    "region": "South Kolkata",
+    "neighborhood": "Ballygunge / Lake Road",
+    "address": "57, Jatin Das Road, Lake Market, Kolkata 700029",
+    "latitude": 22.5159,
+    "longitude": 88.3582,
+    "nearby_metro": "Jatin Das Park / Kalighat Metro Station",
+    "nearby_railway": "Ballygunge Junction / Tollygunge",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "47A",
+        "218"
+      ],
+      "mini_buses": [
+        "Lake Market - Howrah",
+        "Gariahat - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "47",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Lake Road / Southern Ave",
+        "destination": "Salt Lake Karunamoyee",
+        "first_service": "06:15 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Established in 1951, celebrating pure Bengali artistic heritage, exquisite handloom fabrics, and traditional environmental installations.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Afternoon 3:00 PM - 5:30 PM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-04",
+    "pandal_number": 4,
+    "name": "Hindustan Park Sarbojanin Durgotsav",
+    "bengali_name": "হিন্দুস্তান পার্ক সর্বজনীন দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Gariahat / Hindustan Park",
+    "address": "Hindustan Park, Gariahat, Kolkata 700029",
+    "latitude": 22.5173,
+    "longitude": 88.3628,
+    "nearby_metro": "Kalighat Metro Station",
+    "nearby_railway": "Ballygunge Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "47A",
+        "218"
+      ],
+      "mini_buses": [
+        "Gariahat - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "42A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Rashbehari Crossing",
+        "destination": "Howrah Station",
+        "first_service": "06:30 AM",
+        "last_service": "09:45 PM",
+        "scheduled_departures": "Bus route listed in the provided guide. Exact timetable not available.",
+        "frequency": "Approx 20 mins",
+        "operating_days": "All Days",
+        "service_status": "Live bus tracking unavailable.",
+        "source": "SOUTH_KOLKATA.pdf (Page 2)",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Renowned for refined thematic installations celebrating rural handicrafts, terracotta, and thought-provoking social messages.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Early Evening 4:30 PM - 6:30 PM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 2,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-05",
+    "pandal_number": 5,
+    "name": "Samaj Sebi Sangha",
+    "bengali_name": "সমাজ সেবী সংঘ",
+    "region": "South Kolkata",
+    "neighborhood": "Lake View Road / Gariahat",
+    "address": "Lake View Road, Near Deshapriya Park, Kolkata 700029",
+    "latitude": 22.5161,
+    "longitude": 88.3541,
+    "nearby_metro": "Kalighat / Jatin Das Park Metro Station",
+    "nearby_railway": "Ballygunge Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "218"
+      ],
+      "mini_buses": [
+        "Deshapriya Park - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-4C",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Deshapriya Park",
+        "destination": "Howrah Station via Hazra",
+        "first_service": "06:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Focuses deeply on social awareness campaigns (such as Braille pandals for the visually impaired and ecological conservation) combined with artistic flair.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 9:00 AM - 11:30 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 3,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-06",
+    "pandal_number": 6,
+    "name": "Deshapriya Park Durgotsav",
+    "bengali_name": "দেশপ্রিয় পার্ক দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Deshapriya Park / Rashbehari",
+    "address": "Deshapriya Park, Rashbehari Avenue, Kolkata 700029",
+    "latitude": 22.5181,
+    "longitude": 88.3533,
+    "nearby_metro": "Kalighat Metro Station (5 min walk)",
+    "nearby_railway": "Ballygunge Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "47A",
+        "218",
+        "221",
+        "240"
+      ],
+      "mini_buses": [
+        "Deshapriya Park - Howrah",
+        "Gariahat - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-6",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "240",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Rashbehari Crossing",
+        "destination": "Bagbazar via Central",
+        "first_service": "05:30 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Monumental scale installations inside the expansive grounds of Deshapriya Park. Iconic landmark of South Kolkata festivities.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late night (1:30 AM - 4:00 AM) or Morning (7:30 AM - 10:00 AM)",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 3,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-07",
+    "pandal_number": 7,
+    "name": "Tridhara Sammilani",
+    "bengali_name": "ত্রিধারা সম্মিলনী",
+    "region": "South Kolkata",
+    "neighborhood": "Manohar Pukur / Rashbehari",
+    "address": "Manohar Pukur Road & Rashbehari Avenue, Kolkata 700029",
+    "latitude": 22.5189,
+    "longitude": 88.3508,
+    "nearby_metro": "Kalighat Metro Station",
+    "nearby_railway": "Ballygunge Junction / Tollygunge",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "218",
+        "240"
+      ],
+      "mini_buses": [
+        "Rashbehari - Howrah",
+        "Gariahat - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-7",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Manohar Pukur Crossing",
+        "destination": "Howrah Station",
+        "first_service": "06:15 AM",
+        "last_service": "10:45 PM",
+        "scheduled_departures": "06:15, 07:00, 07:45, 08:30, 09:30, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 22:45",
+        "frequency": "30 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Official Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Masterpieces of modern artistic themes created by renowned sculptors, featuring dramatic atmospheric lighting and philosophical themes.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late Night (2:00 AM - 5:00 AM)",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 4,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-08",
+    "pandal_number": 8,
+    "name": "Maddox Square Durga Puja",
+    "bengali_name": "ম্যাডক্স স্কোয়ার দুর্গাপূজা",
+    "region": "South Kolkata",
+    "neighborhood": "Ritchie Road / Ballygunge",
+    "address": "Maddox Square Park, Ritchie Road, Ballygunge, Kolkata 700019",
+    "latitude": 22.5273,
+    "longitude": 88.3589,
+    "nearby_metro": "Netaji Bhavan / Jatin Das Park Metro Station",
+    "nearby_railway": "Ballygunge Junction",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "47",
+        "47A",
+        "218"
+      ],
+      "mini_buses": [
+        "Ballygunge - Howrah",
+        "Lansdowne - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "47",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Lansdowne (Sarat Bose Rd)",
+        "destination": "Salt Lake Karunamoyee",
+        "first_service": "06:00 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "The cultural epicenter of Kolkata youth adda. Traditional Ekchala idol, grand sprawling park greens, live performances, and food stalls.",
+    "estimated_visit_duration": "60 mins",
+    "crowd_level": "Extremely High (Cultural Adda hub)",
+    "best_visiting_time": "Late Afternoon 4:00 PM - 7:00 PM or Late Night",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 4,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-09",
+    "pandal_number": 9,
+    "name": "Mudiali Club Durgotsav",
+    "bengali_name": "মুদিয়ালী ক্লাব দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Kalighat / Southern Avenue",
+    "address": "Mudiali Park, Southern Avenue & Lake Temple Road, Kolkata 700029",
+    "latitude": 22.5118,
+    "longitude": 88.3491,
+    "nearby_metro": "Rabindra Sarobar / Kalighat Metro Station",
+    "nearby_railway": "Tollygunge Railway Station (Circular)",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "47",
+        "218",
+        "240"
+      ],
+      "mini_buses": [
+        "Southern Ave - Howrah",
+        "Lake - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "2",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Southern Avenue Crossing",
+        "destination": "Howrah Station",
+        "first_service": "06:00 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Celebrated since 1935 for environmental harmony, pure handcrafted idols, and spectacular intricate temple decor along the serene Rabindra Sarobar.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 8:30 AM - 11:30 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 5,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-10",
+    "pandal_number": 10,
+    "name": "Shiv Mandir Sarbojanin",
+    "bengali_name": "শিব মন্দির সর্বজনীন দুর্গাপূজা",
+    "region": "South Kolkata",
+    "neighborhood": "Kalighat / Southern Avenue",
+    "address": "Lake Temple Road, Southern Avenue, Kolkata 700029",
+    "latitude": 22.5112,
+    "longitude": 88.3512,
+    "nearby_metro": "Rabindra Sarobar Metro Station",
+    "nearby_railway": "Tollygunge Circular Railway",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "47",
+        "218"
+      ],
+      "mini_buses": [
+        "Southern Ave - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "47",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Southern Avenue",
+        "destination": "Karunamoyee",
+        "first_service": "06:15 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Located right beside Mudiali Club. Renowned for innovative concepts, artistic light play, and sustainable installations.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Early evening 4:30 PM - 6:30 PM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 5,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-11",
+    "pandal_number": 11,
+    "name": "Badamtala Ashar Sangha",
+    "bengali_name": "বাদামতলা আষাঢ় সংঘ",
+    "region": "South Kolkata",
+    "neighborhood": "Kalighat",
+    "address": "Nepal Bhattacharjee Street, Kalighat, Kolkata 700026",
+    "latitude": 22.5209,
+    "longitude": 88.3465,
+    "nearby_metro": "Kalighat Metro Station (3 min walk)",
+    "nearby_railway": "Majerhat Railway Station / Tollygunge",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "218",
+        "222",
+        "240"
+      ],
+      "mini_buses": [
+        "Kalighat - Howrah",
+        "Chetla - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8",
+        "EB-1"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "222",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Rashbehari - Kalighat More",
+        "destination": "Sovabazar via Central",
+        "first_service": "06:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Celebrated over 85 years, pioneering creative artistic movements in Kolkata Durga Puja. Multiple international and state awards.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late Night 2:00 AM - 4:30 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 6,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-12",
+    "pandal_number": 12,
+    "name": "66 Pally Durgotsav",
+    "bengali_name": "৬৬ পল্লী দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Kalighat",
+    "address": "66, Nepal Bhattacharjee Street, Kalighat, Kolkata 700026",
+    "latitude": 22.5202,
+    "longitude": 88.3458,
+    "nearby_metro": "Kalighat Metro Station",
+    "nearby_railway": "Majerhat Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "218",
+        "240"
+      ],
+      "mini_buses": [
+        "Kalighat - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-5C",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Kalighat Metro Gate",
+        "destination": "Howrah Station",
+        "first_service": "05:45 AM",
+        "last_service": "11:30 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Directly adjacent to Badamtala Ashar Sangha. Famous for progressive themes including breaking traditions by appointing female priestesses.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "Very High",
+    "best_visiting_time": "Early Morning 7:30 AM - 10:00 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 6,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-13",
+    "pandal_number": 13,
+    "name": "Chetla Agrani Club",
+    "bengali_name": "চেতলা অগ্রণী ক্লাব",
+    "region": "South Kolkata",
+    "neighborhood": "Chetla / Kalighat",
+    "address": "Chetla Park, Peary Mohan Roy Road, Chetla, Kolkata 700027",
+    "latitude": 22.5183,
+    "longitude": 88.3375,
+    "nearby_metro": "Kalighat / Netaji Bhavan Metro Station",
+    "nearby_railway": "Majerhat Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "3",
+        "42A",
+        "47",
+        "218",
+        "222"
+      ],
+      "mini_buses": [
+        "Chetla - Howrah",
+        "Chetla - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-7",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "1",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Chetla Central Road",
+        "destination": "Ramnagar",
+        "first_service": "06:15 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Grand, award-winning thematic presentations featuring massive rustic wooden and terracotta structures, attracting top cultural dignitaries.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late Night 2:30 AM - 5:00 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 7,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-14",
+    "pandal_number": 14,
+    "name": "Suruchi Sangha",
+    "bengali_name": "সুরুচি সংঘ",
+    "region": "South Kolkata",
+    "neighborhood": "New Alipore",
+    "address": "500/A, Block M, New Alipore, Kolkata 700053",
+    "latitude": 22.5085,
+    "longitude": 88.3292,
+    "nearby_metro": "Majerhat / Taratala Metro Station (Purple Line)",
+    "nearby_railway": "Majerhat Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "3",
+        "3B",
+        "3C",
+        "42A",
+        "47",
+        "218",
+        "222"
+      ],
+      "mini_buses": [
+        "New Alipore - Howrah",
+        "Behala - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-7",
+        "S-22",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-4",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-22",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "New Alipore Petrol Pump",
+        "destination": "Shakuntala Park to Lake Town",
+        "first_service": "06:30 AM",
+        "last_service": "10:00 PM",
+        "scheduled_departures": "Every 30 mins",
+        "frequency": "30 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Iconic cultural ambassador showcasing a different Indian state's traditional craft, architecture, and dance traditions each year.",
+    "estimated_visit_duration": "50 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Morning 8:00 AM - 11:00 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 7,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-15",
+    "pandal_number": 15,
+    "name": "Naktala Udayan Sangha",
+    "bengali_name": "নাকতলা উদয়ন সংঘ",
+    "region": "South Kolkata",
+    "neighborhood": "Naktala / Gitanjali",
+    "address": "VIP Road, Naktala, Kolkata 700047",
+    "latitude": 22.4721,
+    "longitude": 88.3615,
+    "nearby_metro": "Gitanjali Metro Station (Blue Line)",
+    "nearby_railway": "Garia / Jadavpur Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "45",
+        "47",
+        "80A",
+        "80B",
+        "218",
+        "227"
+      ],
+      "mini_buses": [
+        "Garia - Howrah",
+        "Naktala - BBD Bag"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "S-7",
+        "C-8",
+        "C-26"
+      ],
+      "ac_buses": [
+        "AC-5",
+        "AC-6",
+        "AC-24",
+        "V-1"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "80A",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Naktala Metro Crossing",
+        "destination": "Howrah Station via Hazra",
+        "first_service": "05:45 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 12 mins",
+        "frequency": "12 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Bold experimental art installations, kinetic sculptures, and avant-garde idol designs that push the boundary of contemporary Puja art.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Extremely High",
+    "best_visiting_time": "Late Night (1:30 AM - 4:00 AM)",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 8,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-16",
+    "pandal_number": 16,
+    "name": "Jodhpur Park Sarbojanin Durgotsav",
+    "bengali_name": "যোধপুর পার্ক সর্বজনীন দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Jodhpur Park / Dhakuria",
+    "address": "Jodhpur Park Club, Kolkata 700068",
+    "latitude": 22.5028,
+    "longitude": 88.3639,
+    "nearby_metro": "Rabindra Sarobar / Mahanayak Uttam Kumar",
+    "nearby_railway": "Dhakuria Railway Station (5 min walk)",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "42A",
+        "47",
+        "80A",
+        "218"
+      ],
+      "mini_buses": [
+        "Jodhpur Park - Howrah"
+      ],
+      "government_buses": [
+        "S-4C",
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "47",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Jodhpur Park Crossing",
+        "destination": "Karunamoyee",
+        "first_service": "06:00 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "One of the largest pujas in the southern quadrant featuring massive themed sets, robotics, eco-friendly materials, and expansive fairs.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 8:30 AM - 11:30 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 8,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-17",
+    "pandal_number": 17,
+    "name": "Babubagan Sarbojanin Durgotsav",
+    "bengali_name": "বাবুবাগান সর্বজনীন দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Dhakuria",
+    "address": "Babubagan Lane, Dhakuria, Kolkata 700031",
+    "latitude": 22.5056,
+    "longitude": 88.3692,
+    "nearby_metro": "Rabindra Sarobar / Shahid Khudiram",
+    "nearby_railway": "Dhakuria Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "3",
+        "42A",
+        "47",
+        "218"
+      ],
+      "mini_buses": [
+        "Dhakuria - Howrah"
+      ],
+      "government_buses": [
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "218",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Dhakuria Bridge",
+        "destination": "Howrah Station",
+        "first_service": "06:15 AM",
+        "last_service": "10:15 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Guide",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Renowned for unique craft representations such as heritage postage stamp replicas, currency replicas, and temple motifs in commemorative art.",
+    "estimated_visit_duration": "35 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Afternoon 3:00 PM - 5:30 PM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 9,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-18",
+    "pandal_number": 18,
+    "name": "Selimpur Pally Durgotsav",
+    "bengali_name": "সেলিমপুর পল্লী দুর্গোৎসব",
+    "region": "South Kolkata",
+    "neighborhood": "Selimpur / Dhakuria",
+    "address": "Selimpur Road, Dhakuria, Kolkata 700031",
+    "latitude": 22.5039,
+    "longitude": 88.3712,
+    "nearby_metro": "Rabindra Sarobar Metro Station",
+    "nearby_railway": "Dhakuria Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "3",
+        "47",
+        "218"
+      ],
+      "mini_buses": [
+        "Dhakuria - Howrah"
+      ],
+      "government_buses": [
+        "S-5C",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-5"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "1",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Selimpur Crossing",
+        "destination": "Ramnagar",
+        "first_service": "06:30 AM",
+        "last_service": "09:30 PM",
+        "scheduled_departures": "Bus route listed in the provided guide. Exact timetable not available.",
+        "frequency": "Approx 20 mins",
+        "operating_days": "All Days",
+        "service_status": "Live bus tracking unavailable.",
+        "source": "SOUTH_KOLKATA.pdf (Page 9)",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Intricate folk craftsmanship, cane and bamboo structures, and peaceful lane ambiance right next to Babubagan.",
+    "estimated_visit_duration": "30 mins",
+    "crowd_level": "Moderate to High",
+    "best_visiting_time": "Early evening 5:00 PM - 7:00 PM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 9,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-19",
+    "pandal_number": 19,
+    "name": "Behala Natun Dal",
+    "bengali_name": "বেহালা নতুন দল",
+    "region": "South Kolkata",
+    "neighborhood": "Behala / Taratala",
+    "address": "145/2, Diamond Harbour Road, Behala, Kolkata 700034",
+    "latitude": 22.4975,
+    "longitude": 88.3188,
+    "nearby_metro": "Taratala / Behala Bazar Metro Station (Purple Line)",
+    "nearby_railway": "Majerhat Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "1",
+        "2",
+        "3",
+        "3A",
+        "3C",
+        "47",
+        "222",
+        "235"
+      ],
+      "mini_buses": [
+        "Behala - Howrah",
+        "Behala - BBD Bag"
+      ],
+      "government_buses": [
+        "S-3A",
+        "S-4C",
+        "S-22",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-1",
+        "AC-4",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "222",
+        "bus_type": "Private Bus",
+        "boarding_stop": "Behala Tram Depot",
+        "destination": "Sovabazar via Central",
+        "first_service": "06:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 15 mins",
+        "frequency": "15 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Transit Roster",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Renowned for ground-breaking installation art, dynamic kinetic elements, and powerful thematic installations on social transformation.",
+    "estimated_visit_duration": "45 mins",
+    "crowd_level": "Very High",
+    "best_visiting_time": "Late Night (1:30 AM - 4:00 AM)",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 10,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  },
+  {
+    "id": "SK-20",
+    "pandal_number": 20,
+    "name": "Barisha Club",
+    "bengali_name": "বড়িশা ক্লাব",
+    "region": "South Kolkata",
+    "neighborhood": "Sakherbazar / Behala",
+    "address": "Diamond Harbour Road, Sakherbazar, Barisha, Kolkata 700008",
+    "latitude": 22.4829,
+    "longitude": 88.3112,
+    "nearby_metro": "Sakherbazar Metro Station (Purple Line)",
+    "nearby_railway": "Majerhat Railway Station",
+    "bus_routes": {
+      "private_buses": [
+        "3A",
+        "3C",
+        "47",
+        "222",
+        "235"
+      ],
+      "mini_buses": [
+        "Sakherbazar - Howrah",
+        "Barisha - BBD Bag"
+      ],
+      "government_buses": [
+        "S-3A",
+        "S-22",
+        "C-8"
+      ],
+      "ac_buses": [
+        "AC-4",
+        "AC-24"
+      ]
+    },
+    "bus_timings": [
+      {
+        "route": "S-3A",
+        "bus_type": "Government Bus (WBTC)",
+        "boarding_stop": "Sakherbazar More",
+        "destination": "Sealdah Station via Central",
+        "first_service": "06:00 AM",
+        "last_service": "10:30 PM",
+        "scheduled_departures": "Every 20 mins",
+        "frequency": "20 mins",
+        "operating_days": "All Days",
+        "service_status": "Active",
+        "source": "WBTC Published Schedule",
+        "last_verified": "2026-10-10 18:30"
+      }
+    ],
+    "highlights": "Nationally celebrated for emotionally stirring Durga idols (e.g. Migrant Mother Durga idol) and thought-provoking social commentary.",
+    "estimated_visit_duration": "40 mins",
+    "crowd_level": "High",
+    "best_visiting_time": "Morning 8:00 AM - 11:00 AM",
+    "source_pdf": "SOUTH_KOLKATA.pdf",
+    "source_page": 10,
+    "verification_status": "Verified Address & Geolocation",
+    "last_updated": "2026-10-11T12:00:00Z"
+  }
+]

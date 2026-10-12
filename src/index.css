@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: #0d0608;
+    color: #fffdf5;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1a0b0f;
+}
+::-webkit-scrollbar-thumb {
+  background: #991b1b;
+  border-radius: 4px;
+  border: 1px solid #f59e0b;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b91c1c;
+}
+
+/* Festive Alpona Decorative Motif Borders */
+.alpona-border-bottom {
+  background-image: radial-gradient(circle at 10px 0px, transparent 8px, #7f1d1d 9px);
+  background-size: 20px 10px;
+}
+
+.festive-gradient-gold {
+  background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #d97706 100%);
+}
+
+.festive-gradient-crimson {
+  background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 50%, #4c0519 100%);
+}
+
+.festive-glass {
+  background: rgba(28, 16, 20, 0.75);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(245, 158, 11, 0.2);
+}
+
+.festive-glass-card {
+  background: linear-gradient(180deg, rgba(38, 18, 24, 0.85) 0%, rgba(20, 9, 13, 0.95) 100%);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.festive-glass-card:hover {
+  border-color: rgba(251, 191, 36, 0.6);
+  box-shadow: 0 10px 25px -5px rgba(245, 158, 11, 0.15), 0 8px 10px -6px rgba(153, 27, 27, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Leaflet Custom Marker & Popup Overrides */
+.leaflet-container {
+  font-family: 'Inter', system-ui, sans-serif !important;
+  border-radius: 0.75rem;
+  z-index: 10;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #1c1014 !important;
+  color: #fffdf5 !important;
+  border: 1px solid #f59e0b !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.6), 0 8px 10px -6px rgba(245, 158, 11, 0.3) !important;
+}
+
+.leaflet-popup-tip {
+  background: #1c1014 !important;
+  border: 1px solid #f59e0b !important;
+}
+
+.leaflet-popup-content {
+  margin: 12px 14px !important;
+  line-height: 1.5 !important;
+}
+
+/* Custom Marker Pin Animation */
+.pandal-pin {
+  transition: transform 0.2s ease;
+}
+.pandal-pin:hover {
+  transform: scale(1.25) translateY(-4px);
+  filter: drop-shadow(0 0 8px #f59e0b);
+}
+
+/* River Hooghly Water Animations */
+@keyframes riverFlow {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(-30px); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes ferryDrift {
+  0% { transform: translateX(-15px) translateY(0); }
+  50% { transform: translateX(15px) translateY(-3px); }
+  100% { transform: translateX(-15px) translateY(0); }
+}
+
+.animate-river {
+  animation: riverFlow 12s ease-in-out infinite;
+}
+
+.animate-ferry {
+  animation: ferryDrift 6s ease-in-out infinite;
+}
