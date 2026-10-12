@@ -148,20 +148,20 @@ export default function Navbar({ activeSection, setActiveSection, selectedRegion
               )}
             </button>
 
-            <button
+            {/* <button
               onClick={onOpenGuides}
               className="p-2 text-festive-gold bg-festive-ruby/20 border border-festive-gold/30 rounded-lg text-xs flex items-center space-x-1"
             >
               <Download className="w-3.5 h-3.5" />
               <span className="text-[11px]">Guides</span>
-            </button>
-            {/* <button
+            </button> */}
+              <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2 text-festive-gold hover:text-white rounded-lg focus:outline-none"
               aria-label="Toggle navigation menu"
             >
               {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-            </button> */}
+            </button> 
           </div>
         </div>
       </div>
