@@ -94,9 +94,7 @@ export default function TransportGuide({ transportData, pandals }) {
             <div className="text-sm font-serif font-bold text-white">
               Cataloged Bus Corridors ({filteredRoutes.length} Available)
             </div>
-            <div className="text-[11px] text-festive-sand/80 italic">
-              ⚠️ Labeled as neighborhood-level connectivity extracted from source PDFs
-            </div>
+            
           </div>
 
           <div className="divide-y divide-festive-gold/15">
