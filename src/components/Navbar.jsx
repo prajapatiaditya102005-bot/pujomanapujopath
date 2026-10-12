@@ -102,14 +102,14 @@ export default function Navbar({ activeSection, setActiveSection, selectedRegion
             })}
 
             {/* Guide Source Downloads Button */}
-            <button
+            {/* <button
               onClick={onOpenGuides}
               className="px-3 py-1.5 text-xs xl:text-sm font-semibold text-festive-sand bg-festive-ruby/30 hover:bg-festive-ruby/60 border border-festive-gold/40 rounded-lg transition-all flex items-center space-x-1.5 shadow-sm"
               title="Download Translated PDF Source Guides"
             >
               <Download className="w-3.5 h-3.5 text-festive-gold" />
               <span>PDF Guides</span>
-            </button>
+            </button> */}
 
             {/* Audio Toggle (Music Symbol Only) */}
             <button
