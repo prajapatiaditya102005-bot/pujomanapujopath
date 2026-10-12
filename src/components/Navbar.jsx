@@ -7,60 +7,42 @@ export default function Navbar({ activeSection, setActiveSection, selectedRegion
   const [audioPlaying, setAudioPlaying] = useState(false);
 
   // Auto-play for 20 seconds when user opens the website
-useEffect(() => {
-  const triggerPlay = () => {
-    dhakPlayer.play(20000).catch(() => {});
-  };
-  // Attempt autoplay immediately (browser may block this)
-  triggerPlay();
-  // Listen for the first touch/click anywhere on the screen
-  const handleFirstGesture = () => {
-    if (!dhakPlayer.isPlaying) {
-      triggerPlay();
-    }
-    window.removeEventListener('click', handleFirstGesture);
-    window.removeEventListener('touchstart', handleFirstGesture);
-  };
-  window.addEventListener('click', handleFirstGesture, { once: true });
-  window.addEventListener('touchstart', handleFirstGesture, { once: true });
-}, []);
-  // // Auto-play for 20 seconds when user opens the website
-  // useEffect(() => {
-  //   // Subscribe to player state changes
-  //   const unsubscribe = dhakPlayer.subscribe((playing) => {
-  //     setAudioPlaying(playing);
-  //   });
+  useEffect(() => {
+    // Subscribe to player state changes
+    const unsubscribe = dhakPlayer.subscribe((playing) => {
+      setAudioPlaying(playing);
+    });
 
-  //   const triggerPlay = () => {
-  //     dhakPlayer.play(20000).catch(() => {});
-  //   };
+    const triggerPlay = () => {
+      dhakPlayer.play(20000).catch(() => {});
+    };
 
-  //   // Attempt autoplay immediately
-  //   triggerPlay();
+    // Attempt autoplay immediately
+    triggerPlay();
 
-  //   // Many browsers block sound until the first user click/tap/gesture on the website.
-  //   // Listen for the first interaction to start the 20-second festive music automatically.
-  //   const handleFirstGesture = () => {
-  //     if (!dhakPlayer.isPlaying) {
-  //       triggerPlay();
-  //     }
-  //     window.removeEventListener('click', handleFirstGesture);
-  //     window.removeEventListener('touchstart', handleFirstGesture);
-  //     window.removeEventListener('keydown', handleFirstGesture);
-  //   };
+    // Many browsers block sound until the first user click/tap/gesture on the website.
+    // Listen for the first interaction to start the 20-second festive music automatically.
+    const handleFirstGesture = () => {
+      if (!dhakPlayer.isPlaying) {
+        triggerPlay();
+      }
+      window.removeEventListener('click', handleFirstGesture);
+      window.removeEventListener('touchstart', handleFirstGesture);
+      window.removeEventListener('keydown', handleFirstGesture);
+    };
 
-  //   window.addEventListener('click', handleFirstGesture, { once: true });
-  //   window.addEventListener('touchstart', handleFirstGesture, { once: true });
-  //   window.addEventListener('keydown', handleFirstGesture, { once: true });
+    window.addEventListener('click', handleFirstGesture, { once: true });
+    window.addEventListener('touchstart', handleFirstGesture, { once: true });
+    window.addEventListener('keydown', handleFirstGesture, { once: true });
 
-  //   return () => {
-  //     unsubscribe();
-  //     dhakPlayer.stop();
-  //     window.removeEventListener('click', handleFirstGesture);
-  //     window.removeEventListener('touchstart', handleFirstGesture);
-  //     window.removeEventListener('keydown', handleFirstGesture);
-  //   };
-  // }, []);
+    return () => {
+      unsubscribe();
+      dhakPlayer.stop();
+      window.removeEventListener('click', handleFirstGesture);
+      window.removeEventListener('touchstart', handleFirstGesture);
+      window.removeEventListener('keydown', handleFirstGesture);
+    };
+  }, []);
 
   // Music symbol toggle handler (stops if playing, plays for 20s if stopped)
   const toggleFestiveAudio = () => {
