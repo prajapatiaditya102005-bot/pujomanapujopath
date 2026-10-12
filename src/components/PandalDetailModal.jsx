@@ -197,13 +197,13 @@ export default function PandalDetailModal({ pandal, onClose, onAddToItinerary, i
           </div>
 
           {/* Source Document Traceability */}
-          <div className="p-3 rounded-xl bg-[#100609] border border-festive-gold/20 flex items-center justify-between text-xs font-mono text-festive-sand/80">
+          {/* <div className="p-3 rounded-xl bg-[#100609] border border-festive-gold/20 flex items-center justify-between text-xs font-mono text-festive-sand/80">
             <div className="flex items-center space-x-2">
               <FileText className="w-4 h-4 text-festive-gold" />
               <span>Source Document: {pandal.source_pdf}</span>
             </div>
             <span>Page {pandal.source_page}</span>
-          </div>
+          </div> */}
 
         </div>
 
