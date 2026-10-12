@@ -49,7 +49,7 @@ export default function HeroDurga({ onExploreMap, onPlanRoute, onOpenGuides, onO
 
             <p className="text-sm sm:text-base text-festive-cream/85 leading-relaxed max-w-2xl mx-auto lg:mx-0">
               The definitive Durga Puja travel guide for Kolkata, West Bengal. Discover legendary pandals across 
-              <strong className="text-festive-lightgold font-semibold"> North, South, and Central Kolkata</strong>, explore bus &amp; metro transit schedules translated directly from Bengali source guides, and plan optimal routes with our embedded interactive map.
+              <strong className="text-festive-lightgold font-semibold"> North, South, and Central Kolkata</strong>, explore bus &amp; metro transit schedules, and plan optimal routes with our embedded interactive map.
             </p>
 
             {/* Quick Action Buttons */}
