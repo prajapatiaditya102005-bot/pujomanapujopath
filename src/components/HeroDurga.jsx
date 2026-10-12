@@ -78,13 +78,13 @@ export default function HeroDurga({ onExploreMap, onPlanRoute, onOpenGuides, onO
                 <span>60+ Bus Routes</span>
               </button>
 
-              <button
+              {/* <button
                 onClick={onOpenGuides}
                 className="px-4 py-3 rounded-xl bg-festive-night/80 hover:bg-[#200e14] text-festive-cream text-xs sm:text-sm font-medium border border-festive-gold/25 flex items-center space-x-2 transition-all"
               >
                 <Download className="w-4 h-4 text-festive-gold" />
                 <span>Download Translated PDFs</span>
-              </button>
+              </button> */}
             </div>
 
             {/* Trust and Feature Badges */}
