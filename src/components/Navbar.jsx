@@ -72,9 +72,9 @@ export default function Navbar({ activeSection, setActiveSection, selectedRegion
                 <span className="text-xl sm:text-2xl font-serif font-black tracking-wide bg-gradient-to-r from-festive-sand via-festive-gold to-yellow-200 bg-clip-text text-transparent">
                   Pujo Mana PujoPath
                 </span>
-                <span className="hidden sm:inline-block px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider bg-festive-ruby/40 text-festive-lightgold border border-festive-gold/30 rounded-full">
+                {/* <span className="hidden sm:inline-block px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider bg-festive-ruby/40 text-festive-lightgold border border-festive-gold/30 rounded-full">
                   Kolkata Guide
-                </span>
+                </span> */}
               </div>
               <p className="text-[11px] sm:text-xs text-festive-sand/80 italic font-medium">
                 Celebrate Maa Durga. Explore Kolkata. Get Stuck Less.
