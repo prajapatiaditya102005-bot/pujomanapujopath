@@ -110,8 +110,9 @@ export default function Footer({ onOpenGuides }) {
             <div>
               &copy; 2026 <strong>Pujo Mana PujoPath</strong>. All rights reserved.
             </div>
+            <div> Made by Xtechduo</div>
             <div className="font-mono text-[10px]">
-              Subho Sarodotsav • Kolkata, West Bengal
+               Kolkata, West Bengal
             </div>
           </div>
         </div>
