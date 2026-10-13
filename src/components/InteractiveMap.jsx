@@ -570,7 +570,7 @@ export default function InteractiveMap({
 
                 {/* Action Buttons */}
                 <div className="pt-3 space-y-2">
-                  {isAdded ? (
+                  {/* /* {isAdded ? (
   <div className="space-y-2">
     <button
       onClick={() => onAddToItinerary(selectedPandal)}
@@ -599,14 +599,14 @@ export default function InteractiveMap({
     <Plus className="w-4 h-4 text-festive-gold" />
     <span>+ Add to Route Planner</span>
   </button>
-)}
-                  {/* <button
+)}*/ */}
+                 <button 
                     onClick={() => onAddToItinerary(selectedPandal)}
                     className="w-full py-2.5 px-4 rounded-xl bg-gradient-to-r from-festive-ruby to-festive-crimson hover:from-red-700 hover:to-festive-ruby text-white font-semibold text-xs border border-festive-gold/40 flex items-center justify-center space-x-2 transition-all shadow"
                   >
                     <Plus className="w-4 h-4 text-festive-gold" />
                     <span>Add to Route Planner</span>
-                  </button> */}
+                  </button> 
 
                   <button
                     onClick={() => onOpenDetailsModal(selectedPandal)}
